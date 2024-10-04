@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jinjehr=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjehr&show_icons=true&theme=transparent)
+
 
 
 <!--
