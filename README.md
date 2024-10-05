@@ -4,8 +4,6 @@
 ## 👋 Hello World! 👋
 
 <br>
-<br>
-
 <a href="https://github.com/jinjehr/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jinjehr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0C1116&icon_color=E3E3E3A8&text_color=fff&title_color=F6882B&count_private=true" width=48% />
   <img width=51% src="http://github-readme-streak-stats.herokuapp.com?user=jinjehr&hide_border=true&theme=rising-sun&bg_color=0C1116" alt="" />
