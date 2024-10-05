@@ -1,9 +1,11 @@
-<div align="center">
+<div align="center"> 
 
-## 👋 Hi, there! I'm Jinphil 👋
+
+## 👋 Hello World! 👋
 
 <br>
-<a href="https://jinjehr.github.io"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://jinjehr.github.io"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />    <a href="https://www.instagram.com/jinphil_choi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+
 <br>
 <br>
 
