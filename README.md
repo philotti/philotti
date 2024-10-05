@@ -1,5 +1,11 @@
-## Hi there 👋
+<div align="center">
 
+## 👋 Hi, there! I'm Jinphil 👋
+
+<br>
+<a href="https://jinjehr.github.io"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<br>
+<br>
 
 <a href="https://github.com/jinjehr/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jinjehr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0C1116&icon_color=E3E3E3A8&text_color=fff&title_color=F6882B&count_private=true" width=48% />
