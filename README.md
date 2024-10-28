@@ -3,8 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Strike&size=40&pause=1000&color=F6882B&center=true&vCenter=true&width=435&height=45&lines=Hello+World+%3A)" alt="Typing SVG" /></a>
 
 <a href="https://github.com/jinjehr/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinjehr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0C1116&icon_color=E3E3E3A8&text_color=fff&title_color=F6882B&count_private=true" width=48% />
   <img width=51% src="http://github-readme-streak-stats.herokuapp.com?user=jinjehr&hide_border=true&theme=rising-sun&bg_color=0C1116" alt="" />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jinjehr&layout=compact&theme=material-palenight&hide_border=true&bg_color=0C1116&icon_color=E3E3E3A8&text_color=fff&title_color=F6882B&count_private=true" width=46% />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=jinjehr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0C1116&icon_color=E3E3E3A8&text_color=fff&title_color=F6882B&count_private=true" width=48% /> -->
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -30,4 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
