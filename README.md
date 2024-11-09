@@ -1,5 +1,7 @@
 <div align="center"> 
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=JINJEHR%20&desc=Jinphil%20Choi&color=F6882B) <br> -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Strike&size=40&pause=1000&color=F6882B&center=true&vCenter=true&width=435&height=45&lines=Hello+World+%3A)" alt="Typing SVG" /></a>
 
 <a href="https://github.com/jinjehr/github-readme-stats">
